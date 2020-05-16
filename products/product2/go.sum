@@ -1,0 +1,5 @@
+github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
+github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
+gitlab.com/tsuchinaga/monorepo-test v0.0.0-20200516193937-50f591073e90 h1:oDw+ACs96nKjQofrgW6+Y9OKwRTCsNE1bIUZkyy8wcE=
+gitlab.com/tsuchinaga/monorepo-test/products/libs/scheduler v0.0.0-20200516193937-50f591073e90 h1:wm5xYzazegAVlXS2olS1t4FTKqrCeqAKkkJzhJ5dxoc=
+gitlab.com/tsuchinaga/monorepo-test/products/libs/scheduler v0.0.0-20200516193937-50f591073e90/go.mod h1:JVKf4uOKylI9wl0+buwLmlLWduJ+A8Wu0IUvoeVVT78=
