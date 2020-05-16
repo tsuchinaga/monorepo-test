@@ -1,0 +1,3 @@
+gitlab.com/tsuchinaga/monorepo-test v0.0.0-20200516193937-50f591073e90 h1:oDw+ACs96nKjQofrgW6+Y9OKwRTCsNE1bIUZkyy8wcE=
+gitlab.com/tsuchinaga/monorepo-test/products/libs/logger v0.0.0-20200516193937-50f591073e90 h1:gPBqxiYvdauhA+yb+38ISj047Y73lg0RfxPx7P4CWEQ=
+gitlab.com/tsuchinaga/monorepo-test/products/libs/logger v0.0.0-20200516193937-50f591073e90/go.mod h1:Y3hkQqz3JxWqHdEi1cWqMgShOahMcQqas8eaqT2uktQ=
